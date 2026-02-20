@@ -41,7 +41,7 @@ A production-ready falling block puzzle game (v11.2) built with vanilla JavaScri
 
 ## 🎮 Live Demo
 
-**[▶️ Play Now](https://rick7peace.github.io/mini-project3/)** — Experience it on desktop, tablet, or mobile!
+**[▶️ Play Now](https://rick7peace.github.io/falling-blocks-plus/)** — Experience it on desktop, tablet, or mobile!
 
 ## 🎓 Development Process
 
